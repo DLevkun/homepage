@@ -1,5 +1,5 @@
 # Homepage for Joey
-![Joe image] (https://github.com/DLevkun/homepage/blob/main/Joe.jpg)
+![Joe image](https://github.com/DLevkun/homepage/blob/e96e4ce9be24e49202179f057ff382fa838aebb4/Joe.jpg)
 
 Own personal website for Joey from "Friends". Basically this is just a résumé :grin:
 
